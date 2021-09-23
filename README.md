@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ZAGR
 - 👀 I’m interested in IOS developing, music and penguins
-🌱 I’m currently learning how not to get crazy while coding
-💞️ I’m looking to collaborate on new projects soon
+-- 🌱 I’m currently learning how not to get crazy while coding
+_ 💞️ I’m looking to collaborate on new projects soon
 📫 How to reach me: j.zagr@mail.ru or insta: @zagr.13
 
 <!---
